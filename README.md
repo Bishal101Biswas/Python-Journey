@@ -22,6 +22,15 @@ winget search python      # Winget searches for 'Python' package
 
 ![result's image for python search using winget](.assets/SS.png "Your results will look something like this")
 
+from there type the following command to install
+
+```powershell
+
+winget install [NAME_OF_YOUR_PACKAGE]
+
+```
+ **winget** will automatically install everything
+
 
 ## from Microsoft Store:
 
