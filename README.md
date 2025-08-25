@@ -18,6 +18,8 @@ winget search python      # Winget searches for 'Python' package
 
 ```
 
+**Your results will look something like this . . .**
+
 ![result's image for python search using winget](.assets/SS.png "Your results will look something like this")
 
 
