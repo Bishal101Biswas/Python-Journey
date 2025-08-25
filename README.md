@@ -39,6 +39,6 @@ Go to Microsoft Store, then search for Python, and download whatever the latest 
 
 ## 3. from Official Python website:
 
-go to [[https://www.python.org/]] website and download and install Python for your system. 
+go to <u>https://www.python.org/</u> website and download and install Python for your system. 
 
 [!:Caution:] While on installation, make sure to add python in your current **System Path**
