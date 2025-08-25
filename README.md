@@ -18,7 +18,7 @@ winget search python      # Winget searches for 'Python' package
 
 ```
 
-![result's image for python search using winget](.assets/SS.png "aa")
+![result's image for python search using winget](.assets/SS.png "Your results will look something like this")
 
 
 ## from Microsoft Store:
