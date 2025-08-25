@@ -42,3 +42,8 @@ Go to Microsoft Store, then search for Python, and download whatever the latest 
 go to <u>https://www.python.org/</u> website and download and install Python for your system. 
 
 [!:Caution:] While on installation, make sure to add python in your current **System Path**
+
+
+
+
+### After installing python you can install your favorite code editor<sup>(in my case it's VS Code)</sup> or IDE <sub>(if you prefer that)</sub>
