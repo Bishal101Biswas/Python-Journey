@@ -5,7 +5,7 @@ Hello Readers, this is my backup for the very first Python courses that I have t
 There are various number of ways to install python below here are listed 3 of them
 
 
-## from Command Line:
+## 1. from Command Line:
 
 If youre using windows 10 or above, then 
 
@@ -32,12 +32,12 @@ winget install [NAME_OF_YOUR_PACKAGE]
  **winget** will automatically install everything
 
 
-## from Microsoft Store:
+## 2. from Microsoft Store:
 
 Go to Microsoft Store, then search for Python, and download whatever the latest version of python you can find
 
 
-## from Official Python website:
+## 3. from Official Python website:
 
 go to [[https://www.python.org/]] website and download and install Python for your system. 
 
